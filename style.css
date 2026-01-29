@@ -1,0 +1,119 @@
+#face{
+    background: yellow;
+    width: 500px;
+    height: 600px;
+    padding: 30px 0px;
+
+}
+
+.righteye{
+    background: white;
+    width: 130px;
+    height: 130px;
+    padding: 30px 30px;
+    margin: 0px 30px;
+}
+
+.lefteye{
+    background: white;
+    width: 130px;
+    height: 130px;
+    padding: 30px 30px;
+    margin: -190px 230px;
+}
+
+.rightpupil{
+    background: black;
+    width: 70px;
+    height: 70px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.leftpupil{
+    background: black;
+    width: 70px;
+    height: 70px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.mouth{
+    background: black;
+    width: 380px;
+    height: 240px;
+    padding: 35px 20px;
+    margin: 225px 30px;
+}
+
+.tooth1{
+    background: white;
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.tooth2{
+    background: white;
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px;
+    margin: -35px 52px;
+}
+
+.tooth3{
+    background: white;
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px;
+    margin: -35px 104px;
+}
+
+.tooth4{
+    background: white;
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px;
+    margin: -35px 156px;
+}
+
+.tooth5{
+    background: white;
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px;
+    margin: -35px 208px;
+}
+
+.tooth6{
+    background: white;
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px;
+    margin: -35px 260px;
+}
+
+.tooth7{
+    background: white;
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px;
+    margin: -35px 312px;
+}
+
+.tongue{
+    background: red;
+    width: 175px;
+    height: 135px;
+    padding: 0px 0px;
+    margin: 130px 100px;
+}
+
+.midlinegrove{
+    background: black;
+    width: 12.5px;
+    height: 115px;
+    padding: 0px 0px;
+    margin: -265px 180px;
+}
